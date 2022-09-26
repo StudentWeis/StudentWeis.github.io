@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>山冰之冰</title><link>https://studentweis.github.io/</link><description>这是属于我的赛博空间</description><generator>Hugo 0.104.0 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>studentweis@gmail.com (山冰)</managingEditor><webMaster>studentweis@gmail.com (山冰)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Mon, 26 Sep 2022 14:28:31 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://studentweis.github.io/rss.xml"/><item><title>Hexo Gitee 博客搭建保姆级教程</title><link>https://studentweis.github.io/tech/log/hexo-gitee-nanny/</link><guid isPermaLink="true">https://studentweis.github.io/tech/log/hexo-gitee-nanny/</guid><pubDate>Mon, 15 Aug 2022 16:32:33 +0000</pubDate><author>studentweis@gmail.com (山冰)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>一直觉得，在如今的互联网时代，有一个属于自己的博客是一件非常酷的事，这里是我在赛博世界中的小窝。与公众号、微博、知乎等等不同，这里所有的内容都由我掌控，可以慢慢地建设，不用想着有没有读者，只是平静地在这个庞大的互联网上留下一些自己的文字。&lt;/p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>山冰之冰</title><link>https://studentweis.github.io/</link><description>这是属于我的赛博空间</description><generator>Hugo 0.104.0 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>studentweis@gmail.com (山冰)</managingEditor><webMaster>studentweis@gmail.com (山冰)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Mon, 26 Sep 2022 14:46:19 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://studentweis.github.io/rss.xml"/><item><title>Hexo Gitee 博客搭建保姆级教程</title><link>https://studentweis.github.io/tech/log/hexo-gitee-nanny/</link><guid isPermaLink="true">https://studentweis.github.io/tech/log/hexo-gitee-nanny/</guid><pubDate>Mon, 15 Aug 2022 16:32:33 +0000</pubDate><author>studentweis@gmail.com (山冰)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>一直觉得，在如今的互联网时代，有一个属于自己的博客是一件非常酷的事，这里是我在赛博世界中的小窝。与公众号、微博、知乎等等不同，这里所有的内容都由我掌控，可以慢慢地建设，不用想着有没有读者，只是平静地在这个庞大的互联网上留下一些自己的文字。&lt;/p>
 &lt;p>借助给朋友安利的机会，我想做一份保姆级教程，分享如何搭建属于自己的个人博客。便利的技术使得做一个自己的博客变得简单，不需要有太多的编程知识就可以实现。但还是有一些必备的内容需要提前了解。&lt;/p>
 &lt;!-- more -->
 &lt;p>当我们打开一个网页的时候，背后发生了那些操作呢？第一步，我们打开了电脑或者手机；第二步，我们连接了网络；第三步，我们在浏览器中输入一个网址并按下回车；第四步，网页的内容出现在浏览器中。其中最重要的是第三步与第四步。&lt;/p>
@@ -624,11 +624,7 @@
 &lt;/ul>
 &lt;h2 id="四辅助手段todo">四、辅助手段——ToDo&lt;/h2>
 &lt;p>我们需要有一个工具来帮助我们记录我们的目标，在尝试了众多的软件之后，我最终选择了微软的 &lt;a href="https://todo.microsoft.com/tasks">ToDo&lt;/a>，在这里我把我的使用感受和使用经验记录一下。&lt;/p>
-&lt;center>
-&lt;a>
-&lt;img src="https://z3.ax1x.com/2021/04/02/cm60W4.png" alt="cm60W4.png" border="0" />
-&lt;/a>
-&lt;/center>
+&lt;p>&lt;img src="https://z3.ax1x.com/2021/04/02/cm60W4.png" alt="">&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;p>多平台快捷同步。这个在之前的版本还是不太行的，同步非常的慢，但最新版本真的太香了，基本是零延迟秒同步。&lt;/p>
@@ -636,14 +632,13 @@
 &lt;/li>
 &lt;li>
 &lt;p>完善的功能。&lt;/p>
-&lt;p>&lt;a>&lt;img src="https://z3.ax1x.com/2021/04/02/cmcgjs.png" alt="cmcgjs.png" border="0" />&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://z3.ax1x.com/2021/04/02/cmcgjs.png" alt="">&lt;/p>
 &lt;p>基本具有我所需要的所有功能：自定义列表、期限制定、重要程度划分、分步骤列出、备注、循环任务等。&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="总结">总结&lt;/h2>
 &lt;p>其实很多道理我们心里都明白，但最重要的是如何执行，那么从现在就要开始啦！&lt;/p>
-&lt;p>&lt;a>&lt;img src="https://z3.ax1x.com/2021/04/02/cmglKs.png" alt="cmglKs.png" border="0" />&lt;/a>&lt;/p>
-&lt;h2 id="参考资料及脚注">参考资料及脚注&lt;/h2>
+&lt;p>&lt;img src="https://z3.ax1x.com/2021/04/02/cmglKs.png" alt="">&lt;/p>
 &lt;div class="footnotes" role="doc-endnotes">
 &lt;hr>
 &lt;ol>
